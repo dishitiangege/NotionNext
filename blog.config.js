@@ -213,14 +213,14 @@ const BLOG = {
     {
       name: '酷爱-张敬轩',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=189140.mp3',
+      url: 'https://gitee.com/dishitiangege/todolist/blob/master/src/assets/kuai.mp3',
       cover:
             'http://p2.music.126.net/aw8wKFyxQXPNf81OpG23WA==/109951166963648421.jpg'
     },
     {
       name: '我们的歌-王力宏',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=25642952.mp3',
+      url: 'https://gitee.com/dishitiangege/todolist/blob/master/src/assets/ourmusic.mp3',
       cover:
             'http://p2.music.126.net/lHab-TuxFpGuCCv661i7eg==/109951163095170102.jpg'
     }
